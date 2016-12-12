@@ -1,0 +1,14 @@
+.DS_Store
+/*.tif
+/*.jpg
+/*.png
+/*.zip
+/*.html
+/*.csv
+/*.gif
+/*.bmp
+/*.m~
+check/
+rectified/
+rectified2/
+index.html
